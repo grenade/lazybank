@@ -1,0 +1,10 @@
+{
+  "name": "lazybank",
+  "version": "0.0.1",
+  "description": "crypto piggy bank for lazy people",
+  "main": "index.js",
+  "repository": "https://github.com/grenade/lazybank",
+  "author": "Rob Thijssen <rthijssen@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
